@@ -14,6 +14,12 @@ The goal of this project is to build a predictive model that can estimate the `S
 
 4. **Deployment**: Creating an interactive web application using Streamlit to showcase the model's predictions.
 
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/db3c2ba0-972f-4710-9178-1bcfbce4a9d7" />
+
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/659da9ff-f698-419e-b955-92dca7bfb765" />
+
+
+
 ## 📁 File Structure
 
 The project is organized into the following files:
@@ -81,4 +87,5 @@ The Streamlit app provides a simple form to input house details. You can:
 Feel free to fork the repository and contribute to this project. If you find a bug or have a suggestion, please open an issue.
 
 ---
+
 *Developed by Devnaam Priyadershi*
